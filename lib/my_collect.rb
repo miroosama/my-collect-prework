@@ -4,8 +4,8 @@ result = []
 
 while i < array.length
   block_given?
-my_languages < yeild(array[i])
+result < yeild(array[i])
   i += 1
 end
-my_languages
+result
 end
